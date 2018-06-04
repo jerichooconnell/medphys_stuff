@@ -1,0 +1,1 @@
+It would probably be easier to modify the generator class so as it automatically outputs the correct image rather than generating all of the images and then using them.
